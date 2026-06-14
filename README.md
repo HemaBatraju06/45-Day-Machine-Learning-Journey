@@ -29,11 +29,11 @@ through hands-on practice and real-world projects.
 
 ### Phase 1: Python Foundation
 
-* [ ] Day 1 - Python Basics
-* [ ] Day 2 - Control Statements
-* [ ] Day 3 - Loops
-* [ ] Day 4 - Collections
-* [ ] Day 5 - Functions, OOP & File Handling
+* [x] Day 1 - Python Basics
+* [x] Day 2 - Control Statements
+* [x] Day 3 - Loops
+* [x] Day 4 - Collections
+* [x] Day 5 - Functions, OOP & File Handling
 
 ### Phase 2: Math for ML
 
@@ -113,7 +113,7 @@ through hands-on practice and real-world projects.
 
 ### Python Projects
 
-*(To be updated)*
+*(Smart Household Expenses Tracker )*
 
 ### Data Analysis Projects
 
