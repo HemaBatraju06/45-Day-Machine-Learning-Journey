@@ -37,18 +37,18 @@ through hands-on practice and real-world projects.
 
 ### Phase 2: Math for ML
 
-* [ ] Day 6 - Statistics
-* [ ] Day 7 - Probability & Bayes Theorem
-* [ ] Day 8 - Linear Algebra
-* [ ] Day 9 - Variance & Standard Deviation
+* [X] Day 6 - Statistics
+* [X] Day 7 - Probability & Bayes Theorem
+* [X] Day 8 - Linear Algebra
+* [X] Day 9 - Variance & Standard Deviation
 
 ### Phase 3: Data Analysis
 
-* [ ] Day 10 - NumPy Basics
-* [ ] Day 11 - NumPy Advanced
-* [ ] Day 12 - Pandas Basics
-* [ ] Day 13 - Data Cleaning
-* [ ] Day 14 - Dataset Handling
+* [X] Day 10 - NumPy Basics
+* [X] Day 11 - NumPy Advanced
+* [X] Day 12 - Pandas Basics
+* [X] Day 13 - Data Cleaning
+* [X] Day 14 - Dataset Handling
 
 ### Phase 4: Data Visualization
 
@@ -117,7 +117,7 @@ through hands-on practice and real-world projects.
 
 ### Data Analysis Projects
 
-*(To be updated)*
+*(Student Data Analysis)*
 
 ### Machine Learning Projects
 
