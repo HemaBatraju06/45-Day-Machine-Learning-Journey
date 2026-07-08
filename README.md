@@ -52,9 +52,9 @@ through hands-on practice and real-world projects.
 
 ### Phase 4: Data Visualization
 
-* [ ] Day 15 - Matplotlib
-* [ ] Day 16 - Seaborn
-* [ ] Day 17 - Dashboard Storytelling
+* [x] Day 15 - Matplotlib
+* [x] Day 16 - Seaborn
+* [x] Day 17 - Dashboard Storytelling
 
 ### Phase 5: Machine Learning Fundamentals
 
